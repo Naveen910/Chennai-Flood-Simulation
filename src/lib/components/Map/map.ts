@@ -83,7 +83,7 @@ export default class Map {
             3,
             '#abced0',
             4,
-            '#519ea2'
+            'skyblue',
           ],
           'fill-opacity': 0.8
         }
