@@ -1,4 +1,4 @@
-# chennai-water-log
+# Chennai-Flood-Simulation
 
 An interactive tool to explore water accumulation patterns around Chennai, India.
 
