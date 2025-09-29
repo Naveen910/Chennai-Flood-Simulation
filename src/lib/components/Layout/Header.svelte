@@ -19,7 +19,7 @@
       <h1
         class="font-khand-bold w-[90%] md:text-4xl text-2xl md:text-center font-bold uppercase"
       >
-        Chennai Water Log
+        Chennai Flood Simulation
       </h1>
       <p
         class="md:text-sm md:w-full w-[90%] text-xs md:text-center font-semibold"
